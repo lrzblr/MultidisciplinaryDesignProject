@@ -32,4 +32,5 @@ Proje değerlendirmesi:
 7. Ekibin projede ortak paylaşımı, planlama
 8. Projenin yönetim planı ve sonuç raporu
 9. Projenin sunumu
+    ![screenshot](1.png)
 !Packing(https://github.com/lrzblr/MultidisciplinaryDesignProject/blob/main/1.png?raw=true)
