@@ -19,7 +19,7 @@ Minimum Outputs:
 1) Detailed literature research on the project topic to be presented in the final project report.
 2) Design of the software for the selected optimization method to optimally place benchmarked two-dimensional labels or packages within a defined two-dimensional area. Visual representation of the process will be provided in Figure 1.
 
-                     ![screenshot](1.jpg)
+                     ![screenshot](images/1.jpg)
 Figure 1. Visual representation of the label or package placement obtained through the optimization process to be conducted in the project.
 
 3) Mechanical design of a three-axis robot for cutting labels or placing packages.
