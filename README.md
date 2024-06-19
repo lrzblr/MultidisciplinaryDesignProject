@@ -19,7 +19,7 @@ Minimum Outputs:
 1) Detailed literature research on the project topic to be presented in the final project report.
 2) Design of the software for the selected optimization method to optimally place benchmarked two-dimensional labels or packages within a defined two-dimensional area. Visual representation of the process will be provided in Figure 1.
 
-![screenshot](1.png)
+                     ![screenshot](1.jpg)
 Figure 1. Visual representation of the label or package placement obtained through the optimization process to be conducted in the project.
 
 3) Mechanical design of a three-axis robot for cutting labels or placing packages.
@@ -63,7 +63,7 @@ Projenin adımları aşağıda listelenmiştir.
 Minimum Çıktılar:
 1. Proje konusu için detaylı literatür araştırmasının yapılması ve proje sonuç raporunda verilmesi
 2. Sınırları belirlenmiş iki boyutlu alan içerisinde benchmark’lar ile verilen iki boyutlu etiketlerin veya paketlerin optimum olarak yerleştirilmesi için seçilen optimizasyon yönteminin yazılımının tasarımı. Yapılacak işleme ait görsel Şekil 1’de verilmiştir.
-   ![screenshot](2.png)
+            ![screenshot](2.jpg)
 Şekil 1. Projede gerçekleştirilecek optimizasyon işlemi ile elde edilecek etiket veya paket yerleşime ait görsel
 4. Etiketlerin kesimi veya paketlerin yerleşimi için 3 eksenli bir robotun mekanik tasarımı.
 5. Üç eksenli robotun donanımının ve gömülü sistem yazılımının gerçekleştirilmesi
