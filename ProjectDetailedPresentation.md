@@ -1,4 +1,5 @@
 /////////////////////////////////////// [EN] ///////////////////////////////////////
+
 YILDIZ TECHNICAL UNIVERSITY FACULTY OF ELECTRICAL AND ELECTRONICS ENGINEERING 2023-2024 ACADEMIC YEAR MULTIDISCIPLINARY DESIGN PROJECT
 TOPIC: Placement of 2D Objects within a Defined Area Using a 3-Axis Robot
 Assoc. Prof. Dr. Umut Engin AYTEN
