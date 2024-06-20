@@ -17,7 +17,9 @@ To give you a brief overview of the project, it can be best approached in three 
 3. 3D Printer
    
 The placement algorithm is designed to recognize datasets containing rectangles of various sizes and to optimally place these shapes within a limited area. This algorithm also outputs data to the hardware, enabling the printer to draw.
+
 The hardware reads the output from the algorithm and uses specific calculations to drive step motors with artificial clock pulses. It is crucial that the hardware accurately calculates the drawing process and optimizes it according to the motor specifications.
+
 The 3D printer uses the output from the hardware to draw on paper using the Cartesian coordinate system.
 
 #Conclusion
@@ -58,7 +60,9 @@ Projeyi sizlere kısaca özetleyecek olursam, 3 parça halinde yaklaşmak en do�
 3. 3D Printer
 
 Yerleştirme algoritması, bu proje belli sayılarda ve ölçülerde dörtgenler bulunan veri setlerini tanıyan ve bu şekilleri sınırlı bir alana en optimal şekilde yerleştirmeye çalışacak olan algoritmadır. Bu algoritma ayrıca donanıma bir çıktı iletecektir ki bu sayede printer ile çizim yapabilelim.
+
 Donanım, algoritmadan gelen çıktıyı okuyarak belirli hesaplamalar ile step motorları yapay clock darbeleri ile çalıştırmaktadır. Bu kısımda donanımın çizimi doğru hesaplaması ve motorun özelliklerine göre optimize olması gerekmektedir.
+
 3D Printer, donanımdan gelen çıktıyı kartezyen koordinat sistemini kullanarak bir kağıda çizme işlemini gerçekleştirmektedir. 
 
 #Sonuç
