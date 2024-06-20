@@ -124,10 +124,15 @@ Development boards, single-board computers, or custom-designed microcontroller-b
 
 REFERENCES
 [1] Gilmore, P. C., & Gomory, R. E. (1961). A linear programming approach to the cutting-stock problem. Operations research, 9(6), 849-859.
+
 [2] Dyckhoff, H. (1990). A typology of cutting and packing problems. European Journal of Operational Research, 44(2), 145-159.
+
 [3] Hochbaum, D. S., & Maass, W. (1985). Approximation schemes for covering and packing problems in image processing and VLSI. Journal of the Association for Computing Machinery, 32(1), 130–136.
+
 [4] Óscar Oliveira, Dorabela Gamboa, Elsa Silva, 'An introduction to the two-dimensional rectangular cutting and packing problem', International transactions in operational research, 2023.
+
 [5] Álvaro Luiz Neuenfeldt Júnior, 'The Two-Dimensional Rectangular Strip Packing Problem', PhD Thesis, 2017.
+
 [6] E. Hopper and B. C. H. Turton, Empirical investigation of meta-heuristic and heuristic algorithms for a 2D packing problem, European Journal of Operational Research, 128:1 (2001) 34–57.
 
 
