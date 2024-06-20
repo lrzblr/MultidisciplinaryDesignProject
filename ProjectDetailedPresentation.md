@@ -1,4 +1,5 @@
-[EN] YILDIZ TECHNICAL UNIVERSITY FACULTY OF ELECTRICAL AND ELECTRONICS ENGINEERING 2023-2024 ACADEMIC YEAR MULTIDISCIPLINARY DESIGN PROJECT
+/////////////////////////////////////// [EN] ///////////////////////////////////////
+YILDIZ TECHNICAL UNIVERSITY FACULTY OF ELECTRICAL AND ELECTRONICS ENGINEERING 2023-2024 ACADEMIC YEAR MULTIDISCIPLINARY DESIGN PROJECT
 TOPIC: Placement of 2D Objects within a Defined Area Using a 3-Axis Robot
 Assoc. Prof. Dr. Umut Engin AYTEN
 
@@ -133,8 +134,10 @@ REFERENCES
 
 [6] E. Hopper and B. C. H. Turton, Empirical investigation of meta-heuristic and heuristic algorithms for a 2D packing problem, European Journal of Operational Research, 128:1 (2001) 34–57.
 
+/////////////////////////////////////// [TR] ///////////////////////////////////////
 
-[TR] YILDIZ TEKNİK ÜNİVERSİTESİ ELEKTRİK-ELEKTRONİK FAKÜLTESİ 2023-2024 EĞİTİM-ÖĞRETİM YILI ÇOK DİSİPLİNLİ TASARIM PROJESİ
+
+YILDIZ TEKNİK ÜNİVERSİTESİ ELEKTRİK-ELEKTRONİK FAKÜLTESİ 2023-2024 EĞİTİM-ÖĞRETİM YILI ÇOK DİSİPLİNLİ TASARIM PROJESİ
 KONU: 3 Eksenli Robot ile 2 Boyutlu Nesnelerin Sınırları Belirli Bir Alana Yerleştirilmesi
 Doç. Dr. Umut Engin AYTEN
 
@@ -157,7 +160,7 @@ Bu amaç için literatür taraması yapılacak ve bir optimizasyon yöntemi seç
 PROJE KONUSUNUN AMACI
 Bu projede ikinci olarak, üç eksen hareket yeteneğine sahip bir robotik tasarım yapılacaktır.
 
-![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/a7c46457-75d2-4403-9ca5-b7b015b100b6) ![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/454f3b91-daa8-430c-b76c-9d71df5ff3ff)
+![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/a7c46457-75d2-4403-9ca5-b7b015b100b6) ![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/59d0b0c0-4e79-406a-9afa-a9a60a5e18c7)
 
 
 
@@ -243,7 +246,8 @@ Optimizasyon işlemi sonucunda elde edilen yerleşim planının kağıda çizimi
 
 Maliyet durumlarını göz önüne alarak tasarımlar 3D printerlar aracılığıyla veya hazır kesilmiş parçalar kullanılarak gerçekleştirilebilir. Hareket mekanizması için kullanılacak motor seçimleri ÇDTP gruplarına bırakılmıştır. Seçilecek olan motora uygun olarak elektronik donanım, kontrolör tasarımı ve elektronik sistemin yazılımı gerçekleştirilecektir.
 
-![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/2030eaa1-de9d-4e74-980a-b9bdcde42b42)  ![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/786ef772-9947-4e29-a533-738c7f99c325)
+![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/2030eaa1-de9d-4e74-980a-b9bdcde42b42)  ![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/21522531-dca0-43d8-8258-a91df57e76d5)
+
 
 Elektronik donanım için geliştirme kartları, kart bilgisayarlar veya özgün olarak tasarlayacağınız mikrodenetleyicili donanımlar kullanılabilir.
 
