@@ -118,11 +118,10 @@ Designs can be realized considering cost factors through 3D printers or using pr
 
 ![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/4057de6e-8c46-435b-81bb-cbcffbdbbd1f)  ![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/8be6ee05-1594-4fce-8a09-bf789e606241)
 
-
-
 Development boards, single-board computers, or custom-designed microcontroller-based hardware can be used for electronic hardware.
 
 REFERENCES
+
 [1] Gilmore, P. C., & Gomory, R. E. (1961). A linear programming approach to the cutting-stock problem. Operations research, 9(6), 849-859.
 
 [2] Dyckhoff, H. (1990). A typology of cutting and packing problems. European Journal of Operational Research, 44(2), 145-159.
