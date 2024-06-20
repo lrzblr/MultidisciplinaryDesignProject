@@ -23,6 +23,7 @@ The hardware reads the output from the algorithm and uses specific calculations 
 The 3D printer uses the output from the hardware to draw on paper using the Cartesian coordinate system.
 
 #Conclusion
+
 By not using commonly employed GCode libraries and interfaces in 3D printer projects, we added a unique development within a limited time frame. As a result, we advanced to the competition stage, standing out among over a hundred groups. Although our unique code developments made us prominent among the projects, unfortunately, we did not make it into the top three as we expected. This was an unexpected outcome for us because the use of pre-made interfaces was not allowed among the minimum requirements, and unfortunately, we were the only team that adhered to this rule. Consequently, we successfully completed the project, competed in the contests, gained valuable experience as a team, and most importantly, formed wonderful friendships.
 
 I have included our project introduction video, filmed a few weeks before the competition, and our project outputs below (Note: The video was filmed during the prototype phase; in the final phase, our device operated 4 times faster and produced outputs 16 times finer).
