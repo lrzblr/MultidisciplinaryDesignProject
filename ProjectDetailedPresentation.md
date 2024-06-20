@@ -99,7 +99,7 @@ General classification of cutting and packing problems [5]
 
 In the context of the MDDP course, the dataset provided by Hopper and Turton will be used for testing operations [6]. This dataset includes 21 examples across 7 classes, with 3 examples per problem class.
 
-![image](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/73cd3bfc-21b2-40b4-b796-adfb69432958)
+![3](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/26f63749-cfa7-405d-9f51-4b1c7cde2b47)
 
 To demonstrate the success of the optimization process, all classes and examples from the dataset must be utilized. However, only the data from the class named C1 will be used for drawing with the robot you will design.
 
