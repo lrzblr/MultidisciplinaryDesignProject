@@ -79,37 +79,41 @@ Kapsam:
 
 Projenin adımları aşağıda listelenmiştir.
 
-Optimizasyon işlemi için literatürdeki yöntemlerin incelenmesi.
-Seçilen optimizasyon yönteminin yazılımının gerçekleştirilmesi.
-Optimizasyon yazılımının başarımının benchmark’lar ile testlerinin gerçekleştirilmesi ve başarım oranının tespit edilmesi.
-Üç eksenli robotun mekanik tasarımının yapılması.
-Üç eksenli robotun elektronik donanımının gerçekleştirilmesi.
-Üç eksenli robot ile kesim veya paket yerleştirme işlemini gerçekleştirecek şekilde gömülü sistem yazılımının gerçekleştirilmesi.
+1. Optimizasyon işlemi için literatürdeki yöntemlerin incelenmesi.
+2. Seçilen optimizasyon yönteminin yazılımının gerçekleştirilmesi.
+3. Optimizasyon yazılımının başarımının benchmark’lar ile testlerinin gerçekleştirilmesi ve başarım oranının tespit edilmesi.
+4. Üç eksenli robotun mekanik tasarımının yapılması.
+5. Üç eksenli robotun elektronik donanımının gerçekleştirilmesi.
+6. Üç eksenli robot ile kesim veya paket yerleştirme işlemini gerçekleştirecek şekilde gömülü sistem yazılımının gerçekleştirilmesi.
+
 Minimum Çıktılar:
 
-Proje konusu için detaylı literatür araştırmasının yapılması ve proje sonuç raporunda verilmesi.
-Sınırları belirlenmiş iki boyutlu alan içerisinde benchmark’lar ile verilen iki boyutlu etiketlerin veya paketlerin optimum olarak yerleştirilmesi için seçilen optimizasyon yönteminin yazılımının tasarımı. Yapılacak işleme ait görsel Şekil 1'de verilmiştir.
+1. Proje konusu için detaylı literatür araştırmasının yapılması ve proje sonuç raporunda verilmesi.
+2. Sınırları belirlenmiş iki boyutlu alan içerisinde benchmark’lar ile verilen iki boyutlu etiketlerin veya paketlerin optimum olarak yerleştirilmesi için seçilen optimizasyon yönteminin yazılımının tasarımı. Yapılacak işleme ait görsel Şekil 1'de verilmiştir.
 
 ![2](https://github.com/lrzblr/MultidisciplinaryDesignProject/assets/133981055/63cf87bc-a8c1-4986-9824-5959b114ac37)
 
 Şekil 1. Projede gerçekleştirilecek optimizasyon işlemi ile elde edilecek etiket veya paket yerleşimine ait görsel
 
-Etiketlerin kesimi veya paketlerin yerleşimi için üç eksenli bir robotun mekanik tasarımı.
-Üç eksenli robotun donanımının ve gömülü sistem yazılımının gerçekleştirilmesi.
+
+3. Etiketlerin kesimi veya paketlerin yerleşimi için üç eksenli bir robotun mekanik tasarımı.
+4. Üç eksenli robotun donanımının ve gömülü sistem yazılımının gerçekleştirilmesi.
+   
 Bonus Çıktılar:
 
-Etiketlerin dörtgen biçimi haricinde, daire veya kısmi dairesel biçimli olarak belirlenmesi.
-Literatürdeki optimizasyon yöntemlerinin iyileştirilecek şekilde yeni optimizasyon yaklaşımları üzerinde çalışılması.
-Bu projede belirlenen robotik işlem için özgün bir tasarım gerçekleştirilmesi.
-Etiket kesimi veya paket yerleşimi işleminin fiziksel olarak gerçekleştirilmesinden sonra görüntü işleme teknikleri ile işlemin başarısının tespiti.
+1. Etiketlerin dörtgen biçimi haricinde, daire veya kısmi dairesel biçimli olarak belirlenmesi.
+2. Literatürdeki optimizasyon yöntemlerinin iyileştirilecek şekilde yeni optimizasyon yaklaşımları üzerinde çalışılması.
+3. Bu projede belirlenen robotik işlem için özgün bir tasarım gerçekleştirilmesi.
+4. Etiket kesimi veya paket yerleşimi işleminin fiziksel olarak gerçekleştirilmesinden sonra görüntü işleme teknikleri ile işlemin başarısının tespiti.
+
 Proje Değerlendirmesi:
 
-Literatür araştırmasının detaylı olarak gerçekleştirilmesi.
-Seçilen optimizasyon yönteminin yazılımının gerçekleştirilmesi.
-Optimizasyon işlemi ile elde edilen başarımın literatürle karşılaştırılması.
-Üç eksenli robot için mekanik, elektronik donanım ve gömülü sistem yazılım tasarım kabiliyeti.
-Çözüm yöntemleri ve uygulanabilirliği, verimliliği.
-Farklılık oluşturabilecek çözüm yöntemleri.
-Ekibin projede ortak çalışması, planlama.
-Projenin yönetim planı ve sonuç raporu.
-Projenin sunumu.
+1. Literatür araştırmasının detaylı olarak gerçekleştirilmesi.
+2. Seçilen optimizasyon yönteminin yazılımının gerçekleştirilmesi.
+3. Optimizasyon işlemi ile elde edilen başarımın literatürle karşılaştırılması.
+4. Üç eksenli robot için mekanik, elektronik donanım ve gömülü sistem yazılım tasarım kabiliyeti.
+5. Çözüm yöntemleri ve uygulanabilirliği, verimliliği.
+6. Farklılık oluşturabilecek çözüm yöntemleri.
+7 Ekibin projede ortak çalışması, planlama.
+8. Projenin yönetim planı ve sonuç raporu.
+9. Projenin sunumu.
